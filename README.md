@@ -42,17 +42,6 @@ I'm a B.Tech student at MPGI. Passionate about Java and Python, I enjoy solving 
   </table>
 </p>
 
----
-
-### 🔗 **Connect with me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/akshat-verma-373b81296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshat-verma-373b81296" height="30" width="40" /></a>
-<a href="https://www.instagram.com/a.k.s.h.a.t._16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a.k.s.h.a.t._16" height="30" width="40" /></a>
-<a href="https://leetcode.com/akshat_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akshat_16/" height="30" width="40" /></a>
-
-<!-- <a href="https://www.geeksforgeeks.org/user/akshat_16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/darshanpc25/" height="30" width="40" /></a> -->
-</p>
-
 --- 
 
 ## 🛠 Tech Stack & Tools  
